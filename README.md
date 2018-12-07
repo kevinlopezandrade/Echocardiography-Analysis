@@ -16,5 +16,5 @@ which in fact correspond to the end-systole and end-diastole of a cardiac cycle.
 
 
 ## References
-[1][Machine Learning for Cardiac Ultrasound Time Series Data](ftp://ftp.math.ucla.edu/pub/camreport/cam17-26.pdf)
+[Machine Learning for Cardiac Ultrasound Time Series Data](ftp://ftp.math.ucla.edu/pub/camreport/cam17-26.pdf)
 
